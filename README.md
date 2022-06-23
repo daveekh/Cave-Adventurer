@@ -1,3 +1,3 @@
-# Cave-Adventurer
+# Cave Adventurer
 
 Dawid Nadzieja © 2018
